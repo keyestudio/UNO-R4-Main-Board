@@ -1,11 +1,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio docs
+   :caption: UNO R4 Main Board
 
    README.md
-   docs/keyestudio/index
-
+   docs/UNO R4 Main Board.md
 
 
 
